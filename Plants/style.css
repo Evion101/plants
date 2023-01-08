@@ -1,0 +1,78 @@
+html { font-size: 10px;
+      }
+body {font-size: 1.6rem;
+font-family: inter;   }
+.logo {font-family: inka;}
+ 
+
+.news-block {background-color: var(--color-primary);}
+
+:root {--color-primary: #499A18;}
+:root {--color-additional: #E06733;}
+:root {--color-1: #717171;}
+:root {--color-2: #636060;}
+:root {--color-background-section: #EDF2EC;}
+:root {--color-links-nav: #010201;}
+
+:root {--content-width: 1440px;}
+:root {--tablet-width: 768px;}
+:root {--mobile-big-width: 414px;}
+:root {--mobile-small-width: 320px;}
+h1 {font-family: Verdana, sans-serif;
+      font-style: normal;
+      font-weight: 700;
+      font-size: 45px;
+      line-height: 50px;
+      }  
+h2{font-family: "inka";
+      font-style: normal;
+      font-weight: 400;
+      font-size: 40px;
+      line-height: 52px;
+      } 
+h5{ font-family: Verdana, sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 20px;}
+.wrapper {width:  var(--content-width);
+      margin: auto;}
+.header {background-color: var(--color-background-section);
+         padding: 42px 0px 42px 0px;}
+.header__wrapper {display: flex;
+                  align-items: center;
+                  justify-content: space-between;}
+
+.navigation {display: flex;}
+.navigation_li{list-style: none;
+                  padding: 0 46px;
+                  cursor: pointer;
+                  font-size: 16px;
+                  line-height: 50px;}
+.promo {background-color: var(--color-background-section);}
+.Service_and_our_projects {background-color: var(--color-background-section);}
+.Contact_us {background-color: var(--color-background-section);}
+.Service_buttons {padding: 12px 40px;
+                  border: 1px solid #E06733;
+                  border-radius: 5px;
+                  cursor: pointer;}
+.Service_buttons{padding: 12px 40px;
+                  border: 1px solid #E06733;
+                  border-radius: 5px;
+                  cursor: pointer;}
+.promo_button{padding: 14px 27px 14px 27px;
+                  border: 1px solid #E06733;
+                  border-radius: 5px;
+                  cursor: pointer;}
+.promo_content {display: flex;}
+
+.box_6_wrapper {display: flex;
+                 flex-wrap: wrap;
+            }
+.box_6_flex{padding: 55px 60px;}
+.Service_wrapper{display: flex;}
+.layout_3_column{display: flex;
+                 justify-content: space-around; }
+.Contact_us{margin: o auto;}
+.column_2_a{ text-decoration: none;
+                  color: #000;}
