@@ -1,0 +1,8 @@
+@font-face { font-family: "inter";
+            src: url("/fonts/Inter/static/Inter-Light.ttf");
+            src: url("/fonts/Inter/static/Inter-Bold.ttf");
+            src: url("/fonts/Inter/static/Inter-Medium.ttf");
+            src: url("/fonts/Inter/static/Inter-Regular.ttf");
+            font-family: "inka";
+            src: url("/fonts/Inika-Regular.ttf");
+}
